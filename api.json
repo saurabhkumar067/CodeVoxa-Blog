@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "blogName":"Email marketing",
     "title": "The Future of Web Development",
     "description": "Exploring the latest trends and technologies shaping the web.",
     "image": "../../../assests/NTROzoGU.webp",
@@ -9,6 +10,7 @@
   },
   {
     "id": 2,
+    "blogName":"SEO",
     "title": "Mastering React Hooks",
     "description": "A deep dive into React Hooks and how to use them effectively.",
     "image": "../../../assests/NTROzoGU.webp",
