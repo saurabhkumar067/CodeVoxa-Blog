@@ -1,0 +1,26 @@
+[  
+    {
+      "id": 1,
+      "title": "The Future of Web Development",
+      "description": "Exploring the latest trends and technologies shaping the web.",
+      "image": "../../../assests/NTROzoGU.webp",
+      "date": "Feb 2, 2025",
+      "content": "This is where a top digital marketing agency comes in that can help your business target the right audience through the right strategies that can help you grow. With years of experience in online marketing, our team can provide you with comprehensive digital marketing solution such as SEO, social media marketing, PPC, and content marketing to enhance your online exposure. Our approach as a digital marketing agency is to use creative strategies that increase brand awareness and conversion. Our digital marketing services can help you achieve measurable success, whether it's through targeted advertising or a solid online strategy. Engaging your audience is made possible by high-quality content, and our content writing agency guarantees you high-quality, engaging, SEO-friendly content according to your branding. We work with blog writing, website content, social media posts and so on through content writing services that will take your online presence up a notch. Our expertise here at Professional Content Writing SEO services focuses on originality, lucidity and strategy to bring your message to cut through. Our content writing services are tailored to enhance engagement, whether you require compelling copy or knowledge-infused articles."
+    },
+    {
+      "id": 2,
+      "title": "Mastering React Hooks",
+      "description": "A deep dive into React Hooks and how to use them effectively.",
+      "image": "../../../assests/NTROzoGU.webp",
+      "date": "Jan 28, 2025",
+      "content": "Full content of Mastering React Hooks..."
+    },
+    {
+      "id": 3,
+      "title": "Tailwind CSS: The Utility-First Revolution",
+      "description": "Why Tailwind CSS is changing the way we write styles.",
+      "image": "../../../assests/NTROzoGU.webp",
+      "date": "Jan 20, 2025",
+      "content": "Full content of Tailwind CSS: The Utility-First Revolution..."
+    },
+  ];
